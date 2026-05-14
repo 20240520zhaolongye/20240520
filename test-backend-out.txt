@@ -1,0 +1,3 @@
+Database and tables initialized successfully
+Songs table already has data, skipping seed
+Server is running on port 3000

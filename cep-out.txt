@@ -1,0 +1,2 @@
+Electron path: C:\Users\赵龙烨\Desktop\musicplayer\frontend\node_modules\electron\dist\electron.exe
+Exists: true

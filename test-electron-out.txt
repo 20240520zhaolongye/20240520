@@ -1,0 +1,3 @@
+
+[Backend] Already running on port 3000, skipping
+[Electron] Found Vite on port 5173

@@ -1,0 +1,15 @@
+
+=== Frontend Page Tests ===
+
+  PASS: Home page (/)
+  PASS: Search page (/search)
+  PASS: Playlists page (/playlists)
+  PASS: For You page (/for-you)
+  PASS: Local Import page (/local)
+  PASS: Favorites page (/favorites)
+  PASS: History page (/history)
+  PASS: Login page (/login)
+  PASS: Register page (/register)
+
+=== Results: 9 passed, 0 failed ===
+

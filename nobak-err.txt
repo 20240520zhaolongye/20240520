@@ -1,0 +1,21 @@
+node:internal/modules/cjs/loader:453
+      throw err;
+      ^
+
+Error: Cannot find module 'C:\Users\赵龙烨\Desktop\musicplayer\frontend\node_modules\electron\index.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (node:internal/modules/cjs/loader:445:19)
+    at Module._findPath (node:internal/modules/cjs/loader:687:18)
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1070:27)
+    at Module._load (node:internal/modules/cjs/loader:929:27)
+    at c._load (node:electron/js2c/node_init:2:13672)
+    at Module.require (node:internal/modules/cjs/loader:1150:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (C:\Users\赵龙烨\Desktop\musicplayer\frontend\test2.cjs:1:32)
+    at Module._compile (node:internal/modules/cjs/loader:1271:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1326:10) {
+  code: 'MODULE_NOT_FOUND',
+  path: 'C:\\Users\\赵龙烨\\Desktop\\musicplayer\\frontend\\node_modules\\electron\\package.json',
+  requestPath: 'electron'
+}
+
+Node.js v18.18.2

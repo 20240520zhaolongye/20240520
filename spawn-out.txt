@@ -1,0 +1,3 @@
+electron.exe exists: true
+main.cjs exists: true
+Electron exited with code: 1

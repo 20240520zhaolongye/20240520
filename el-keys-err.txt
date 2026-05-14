@@ -1,0 +1,15 @@
+[eval]:1
+const
+     
+
+SyntaxError: Unexpected end of input
+    at new Script (node:vm:94:7)
+    at createScript (node:vm:251:10)
+    at Object.runInThisContext (node:vm:299:10)
+    at node:internal/process/execution:82:21
+    at [eval]-wrapper:6:24
+    at runScript (node:internal/process/execution:81:62)
+    at evalScript (node:internal/process/execution:103:10)
+    at node:internal/main/eval_string:29:3
+
+Node.js v18.18.2

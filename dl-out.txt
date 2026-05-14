@@ -1,0 +1,5 @@
+Downloaded to: C:\Users\赵龙烨\AppData\Local\electron\Cache\9d52d289307a654855bb61f40a54e0b7898cd525432a5eed13c306a897e673ef\electron-v28.3.3-win32-x64.zip
+Copied to dist
+electron.exe exists: true
+File size: 176813568
+Done!

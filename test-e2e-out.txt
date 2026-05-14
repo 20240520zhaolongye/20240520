@@ -1,0 +1,15 @@
+
+=== E2E API Proxy Tests (via Vite) ===
+
+  FAIL: GET /api/songs (proxy) - code=500
+  FAIL: GET /api/songs/search (proxy) - code=500
+  FAIL: GET /api/recommendations?type=hot (proxy) - code=500
+  FAIL: POST /api/auth/login (proxy) - code=500
+  FAIL: GET /api/ai-recommendations (proxy) - code=401
+  FAIL: GET /api/users/favorites (proxy) - code=401
+  FAIL: GET /api/users/history (proxy) - code=401
+  FAIL: GET /api/playlists (proxy) - code=401
+  PASS: Upload endpoint accessible (proxy)
+
+=== Results: 1 passed, 8 failed ===
+
